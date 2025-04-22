@@ -55,3 +55,8 @@ This project demonstrates a complete **DevSecOps pipeline** for deploying a **Ne
 
 
 ---
+
+## Credits & References
+
+Special thanks to **Nasiullha Chaudhari** for foundational inspiration and guidance.  
+GitHub Repository Reference: [https://github.com/N4si/DevSecOps-Project](https://github.com/N4si/DevSecOps-Project)
