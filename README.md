@@ -42,10 +42,15 @@ This project demonstrates a complete **DevSecOps pipeline** for deploying a **Ne
 ---
 
 ## 📸 Screenshots
-![1  Sonarkube](https://github.com/user-attachments/assets/c093a3d8-3db6-4bfb-95de-59dfd
+![1  Sonarkube](https://github.com/user-attachments/assets/c093a3d8-3db6-4bfb-95de-59dfd22a641a)
+
+
 ![2  Jenkins](https://github.com/user-attachments/assets/48cab6ec-51ee-49db-b4b6-ede96c82e8a6)
-22a641a)
+
+
 ![3  Prometheus](https://github.com/user-attachments/assets/5b28000d-9b3a-4d25-bb1c-0348ec167657)
+
+
 ![4  Grafana](https://github.com/user-attachments/assets/b1fdc0bc-183e-4051-a1db-db1dd64de581)
 
 
